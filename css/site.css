@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+#joc {
+  margin: 20px;
+  width: 400px;
+  height: 600px;
+  border: 1px solid black;
+  position: relative;
+}
+#joc div {
+  border: 1px solid black;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  display: inline-block;
+}
+#btnReset {
+  display: inline-block;
+  width: 100px;
+  padding: 0.5rem 1rem;
+  margin-left: 50px;
+}
