@@ -1,0 +1,2 @@
+# jocul-Snake
+ptr exercitii
